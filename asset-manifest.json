@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CodeArchitect/static/css/main.138d9130.css",
+    "main.js": "/CodeArchitect/static/js/main.d9ed6cd2.js",
+    "static/media/about.png": "/CodeArchitect/static/media/about.decae0e46f0f901f91a9.png",
+    "static/media/home.png": "/CodeArchitect/static/media/home.a99ce7d928976b887ab5.png",
+    "static/media/Carlo_Folino_Resume.pdf": "/CodeArchitect/static/media/Carlo_Folino_Resume.c0c34acf5bfece285550.pdf",
+    "index.html": "/CodeArchitect/index.html",
+    "main.138d9130.css.map": "/CodeArchitect/static/css/main.138d9130.css.map",
+    "main.d9ed6cd2.js.map": "/CodeArchitect/static/js/main.d9ed6cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.138d9130.css",
+    "static/js/main.d9ed6cd2.js"
+  ]
+}
